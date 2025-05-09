@@ -1,0 +1,3 @@
+- [ ] Clean data
+- [ ] Build dashboard
+- [ ] Write summary

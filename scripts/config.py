@@ -1,0 +1,1 @@
+# DB configuration (Use environment variables in real use)
